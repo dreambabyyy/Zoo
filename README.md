@@ -34,7 +34,5 @@ query_id
 Run the bot:
 
 ```bash
-node zoo.js
-
-node zoo-proxy.js
+node zoo2.js
 ```
